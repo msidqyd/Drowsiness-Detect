@@ -1,4 +1,4 @@
-# Drowsiness-Detect
+# Deteksi Kantuk
 Deteksi Kantuk menggunakan CNN berbasis Internet of Things. 
 dataset training mata tertutup dan mata terbuka bisa didapatkan di link:
 http://mrl.cs.vsb.cz/eyedataset![image](https://user-images.githubusercontent.com/95922228/151928769-86772ef7-e7e1-402c-996a-de9790f0a9b4.png)
